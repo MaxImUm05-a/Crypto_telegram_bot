@@ -3,7 +3,7 @@ import parsermain as par
 import sglite
 from telebot import types as ty
 
-TOKEN = '5758066916:AAHC3IZWJkvq7V9BUBolfCzO94PoYH5pKdM'
+TOKEN = ''
 bot = t.TeleBot(TOKEN)
 info = []
 inaus = []
